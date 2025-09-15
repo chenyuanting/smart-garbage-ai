@@ -31,7 +31,7 @@ pip install -r requirements.txt
 # 2. 執行垃圾分類 demo
 python app/main.py
 👨‍💻 專題成員
-陳永庭 (AI 模型 / 系統整合)
+陳永庭 
 汪子恒
 梁瑜成
 潘信衡
